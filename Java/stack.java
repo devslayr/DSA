@@ -12,7 +12,7 @@ public class stack {
         // uses of stacks?
         // 1. undo/redo features in text editors
         // 2. moving back/forward through browser history
-        // 3.backtracking alogrithms (maze, file directories)
+        // 3. backtracking alogrithms (maze, file directories)
         // 4. calling functions (cal)
 
         Stack<String> stack = new Stack<String>();
